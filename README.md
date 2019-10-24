@@ -1,6 +1,10 @@
 # GoBarber NodeJS
 ## Este projeto faz parte do curso GoStack 9.0 da Rocketseat
 
+O aplicativo GoBarber tem como objetivo permitir que usuários agendem horários em barbearias (ou salão de beleza). Do outro lado o barbeiro vai poder ver a agenda de horários marcados.
+
+Este git é a parte backend do aplicativo, desenvolvido em NodeJS utilizando o framework Express!
+
 ### Framework/plataforma
 - [NodeJS](https://nodejs.org)
 - [Express](https://expressjs.com)
